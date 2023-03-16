@@ -1,0 +1,9 @@
+.debug {
+  background-color: gray;
+  border: 1px solid black;
+  min-height: 90px;
+}
+
+.jumbotron {
+  height: 320px;
+}
